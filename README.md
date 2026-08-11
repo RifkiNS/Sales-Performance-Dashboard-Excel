@@ -37,8 +37,8 @@ Membuat **Pivot Table** sebelum membuat **Dashboard**
 
 ## Business Recomendations
 1. Memberlakukan strategi kolaborasi dilini pakaian dengan KOL/IP:
-   Kategori pakaian saat ini hanya menyumbang 5.1% dari total revenue. Disarankan melakukan kolaborasi ekslusif seperti official merchandise anime/KOL untuk meningkatkan nilai jual produk.
+   Kategori pakaian saat ini hanya menyumbang 5.08% dari total revenue. Disarankan melakukan kolaborasi ekslusif seperti official merchandise anime/KOL untuk meningkatkan nilai jual produk.
 2. Melakukan program bundling dan promosi untuk kategori furnitur:
    Kategori furnitur berpotensi besar naik kelas dari kontribusi 16.9%. Skema promo berjangka (seperti paket bundling ruang kerja/diskon ongkir) dapat mempercepat pembeli mengambil keputusan.
 3. Memberlakukan promo awal tahun untuk mencegah drop penjual dikuartal 1 (Q1):
-   Data historis menunjukkan Q1 merupakan periode penjualan terendah (hanya Rp 711 Juta), dengan penurunan drastis di bulan Maret pada hampir seluruh wilayah. Peluncuran kampanye poin 1 & 2 wajib dimulai sejak Januari untuk menjaga ritme pendapatan.
+   Data historis menunjukkan Q1 merupakan periode penjualan terendah (hanya Rp 711 Juta), dengan penurunan drastis di bulan Maret pada hampir seluruh wilayah. 
